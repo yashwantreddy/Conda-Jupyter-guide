@@ -7,7 +7,7 @@ _conda create --name your_env_name_here python=3.8_
 _conda activate your_env_name_here_
 
 ## Next install Jupyter and ipykernel
-_conda install notebook_
+_conda install notebook_ <br>
 _conda install ipykernel_
 
 
